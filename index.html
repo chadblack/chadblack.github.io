@@ -1,23 +1,33 @@
 ---
-layout: default
+layout: page
+page.title: Welcome!
+description: Home page for chadblack.net
 ---
 
-<div class="home">
+<article>
+<section>
+<p><img src="images/aoc-w.png" alt=W style="float: left; margin: 0px 8px 0px 0px" width=104 height=105>elcome!
+I am Chad Black, Associate Professor of Early Latin American History at the University of Tennessee-Knoxville. I am a specialist in the colonial and early-Republican Andean region. I am especially interested in women's uses of customary legal practices to assert social and economic autonomy, the impact of the independence period on social relations, and the conflict between institutional and popular norms of sexual behaviors. I'm also interested in Spanish imperial legal culture writ large, in both its very local and its global manifestations.</p>
 
-  <h1 class="page-heading">Posts</h1>
+<p>In addition to researching and teaching, I'm an absolute fanatic for bikepacking, rock steady, great coffee, homemade tortillas, writing seriously simple python scripts, and the idea of having <a href="http://parezcoydigo.wordpress.com">blogged</a>.</p>  
 
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+<p>Please follow the links above to find out more about me.</p>  
+</section>
 
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
+<p><section><br />
+<h4>Spring 2015 Courses:</h4></p>
+<ul>
+<li>History 512: The Profession of History</li>
+</ul>
+<p></section><br />
+<section><br />
+<!--
+<h4>Recent Posts:</h4>
+<script language="JavaScript" src="http://feed2js.org//feed2js.php?src=http%3A%2F%2Fparezcoydigo.wordpress.com%2Ffeed&num=7&desc=1&date=y&tz=-7&utf=y"  charset="UTF-8" type="text/javascript"></script></p>
+<noscript>
+<a href="http://feed2js.org//feed2js.php?src=http%3A%2F%2Fparezcoydigo.wordpress.com%2Ffeed&num=7&desc=1&date=y&tz=-7&utf=y&html=y">View RSS feed</a>
+</noscript>
+-->
+</section></article>
 
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 
-</div>

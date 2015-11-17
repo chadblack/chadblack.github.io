@@ -1,0 +1,101 @@
+article, aside, audio, canvas, command, datalist, details, embed, figcaption, figure, footer, header, hgroup, keygen, meter, nav, output, progress, section, source, video{ display: block; }
+mark, rp, rt, ruby, summary, time{ display: inline }
+
+footer, aside, nav, article {  
+    font-family: 'EB Garamond', serif;
+ 	display: block;
+}  
+
+#wrapper {
+	width: inherit;
+	background-color: white;
+}
+
+header {
+	border-width: 5px;
+	/*border-bottom-style: solid;*/
+	border-color: black;
+	margin-top: 1em;
+	font-family:  'Miltonian Tattoo', serif;
+}
+
+body {
+	background-color: white;
+	margin: 0 auto;  
+   	width: 940px; 
+	font-size: 130%; 
+}
+
+footer {
+	font-size:  .85em;
+	border-top-width: medium;
+	border-top-style: solid;
+	padding: 1.5em;
+    margin-top: 1em;
+		
+}
+
+
+nav {
+	clear: both;
+	text-align: center;
+	color: white;
+	font-size: 100%;
+	background-color: black;
+	width: inherit;
+	
+}
+
+a {
+	text-decoration: none;
+	color: inherit;
+}
+
+article a:link{color:FireBrick;border-bottom:1px dotted}
+article a:visited{color:RosyBrown;border-bottom:1px dotted}
+footer a:link{color:FireBrick;border-bottom: 1px dotted}
+article h1{
+	margin-bottom: 0;
+}
+	
+article {
+	position: relative;
+	background-color: white;
+	min-height: 300px;
+	width: 90%;
+	max-width:  650px;
+	padding-top: 1em;
+	padding-left: 2.5em;
+    padding-bottom: 1.5em;
+}
+aside {
+	 float: right; max-width: 300px;clear: right;padding-top: 1em;font-size: 100%;
+}
+
+#site-title {
+	clear: left;
+	float: left;
+	font-size: 1.8em;
+	padding-left: 1em;
+	padding-top: 1em;
+}
+#site-description {
+	clear:  right;
+	float: right;
+	text-align: right;
+	font-size: .8em;
+	padding-top: 3.5em;
+	padding-right: 1em;
+}
+
+#intro {
+	padding-top: 1em;
+	padding-left: 1em;
+}
+
+
+#inline {
+	float: left;
+}
+.f img {
+f
