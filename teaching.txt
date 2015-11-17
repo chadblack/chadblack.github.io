@@ -23,7 +23,7 @@ permalink: /teaching/
 #### Spring 2013
 
 -   [The History of Indigenous Peoples in Spanish
-    America](2013HIST475/)
+    America](../2013HIST475/)
 
 #### Fall 2012
 
