@@ -1,11 +1,9 @@
 ---
 layout: page
-post-title: Teaching
+title: Teaching
+permalink: /teaching/
 ---
 
-
-
-# Teaching
 
 
 #### Fall 2014
