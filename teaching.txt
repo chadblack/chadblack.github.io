@@ -4,7 +4,7 @@ title: Teaching
 permalink: /teaching/
 ---
 
-
+*   [HIST 499: The US and Latin America](../media/pdf/syllabus2016.pdf)
 *   [HILA 360: The Early Andes](../media/pdf/360Syllabus2016.pdf)
 -   [The Profession of History](../media/pdf/512.pdf) (Grad seminar)  
 -   [The US and Latin American in Image and
