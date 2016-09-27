@@ -5,6 +5,7 @@ permalink: /teaching/
 ---
 
 
+*   [HILA 360: The Early Andes](../media/pdf/360Syllabus2016.pdf)
 -   [The Profession of History](../media/pdf/512.pdf) (Grad seminar)  
 -   [The US and Latin American in Image and
     Action](../media/pdf/499F2014.pdf)
@@ -21,7 +22,7 @@ permalink: /teaching/
 -   [Honors Research Methods in History](../307S2011)
 -   [Foundations of Graduate Study of History](../history510)
 -   [Survey of Early Latin America](../history255)
--   [The Spanish Conquest](../history561) (Grad Seminar)
+-   [The Spanish Conquest](../2010HIST561) (Grad Seminar)
 -   [Honors Research Methods in History](../history307)
 -   [Gender and Sexuality in Early Latin America](../history465)
 -   [Survey of Early Latin America](http://history255.wordpress.com/)
