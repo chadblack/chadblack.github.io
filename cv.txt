@@ -4,7 +4,6 @@ title: c.v.
 permalink: /cv/
 ---
 
-
 # Academic Employment  
 
 2012 - Present Associate Professor, History, University of
@@ -49,7 +48,7 @@ late-colonial and early republican gender history. It is also filled
 with compelling human stories drawn from the litigation pursued in the
 barrios of Quito.  
 
-Chad Thomas Black, “Prosecuting Female-Female Sex in Bourbon Quito,” chapter in, Zeb Tortorici, editor, *Sexuality and the Unnatural in Colonial Latin America*, Berkley: University of California Press, 2016.
+“Prosecuting Female-Female Sex in Bourbon Quito,” chapter in, Zeb Tortorici, editor, *Sexuality and the Unnatural in Colonial Latin America*, Berkley: University of California Press, 2016.
 
 "Clustering with Compression for the Historian," *Journal of Digital
 Humanities* 1.1 (Winter 2011), pp. 34-44. Also at:
@@ -107,67 +106,19 @@ Gutiérrez Brockington” *Colonial Latin American Review*, 17.1 (2008).
 
 # Works in Progress and Other Research Activities
 
-*Quito encarcelado/Quito jailed*. A web-based database of 18th century
-detainees in the jails of the Audiencia of Quito, together with
-analytical essays and visualizations.
+"The Usual Suspects: Bourbon Quito through the *Visita de cárcel*, 1732-1791."
 
-*The Politics of Intimacy in the Spanish Empire*. Active book and
-research project on the relationship between sexuality, punishment, and
-economic rationality in the age of Charles III (1759-1788). This project
-changes the way we analyze sexuality in the Spanish empire and
-understand its relationship to imperial rule under Spain’s
-eighteenth-century Bourbon dynasty. How do we theorize and substantiate
-popular sexual desire in the early-modern period? What role did
-controlling sexual activity play in the statecraft of early-modern
-Empire? In the period between 1760 and 1790, the Spanish imperial state
-in the Audiencia of Quito made dramatic new claims to control the sexual
-behaviors of its subjects. Royal authorities increasingly encroached on
-the traditional ecclesiastical territory of pastoral surveillance and
-moral correction. In the process, the state worked to conform sexual
-activities to the Bourbon Monarchy's dream of a centralized,
-patriarchal, economically rational absolutism. Criminal prosecutions of
-illicit sexual behavior revealed the extent to which the sexual
-expectations of royal authorities diverged from popular practices. As
-such, the case files that preserve those prosecutions provide access to
-popular cultural values that diverged from church and state dictates,
-but were very rarely explicitly articulated. This project demonstrates
-that the effective criminalization of extramarital sex during the
-imperial reign of Charles III (1759-1788) turned non-marital sexual
-relationships into contested territory, upon which the empire sought to
-project its expansive claims to political and moral authority. Thus, my
-research works along parallel tracks to document the ways that the
-imperial state sought to buttress its authority through the control of
-sexual practices, while using the paper trail produced by this endeavor
-to analyze eighteenth-century sexualities. By situating popular sexual
-practices as normative, instead of reactive to elite notions of honor,
-this study offers a new kind of history of intimacy in the Spanish
-empire. Likewise, by focusing on the control extramarital sex, it offers
-a new history kind of Bourbon colonialism.
+"*Hace muchos años*: Negotiating Illicit Sex in Quito, 1765-1795"
 
-*Prescott’s Atlantic*. Active research project on the life and writings
-of William Hickling Prescott, the United States’ first internationally
-famous historian. Prescott created the discipline of imperial history in
-the United States with his wildly popular books *The Conquest of Mexico*
-(1843) and *The Conquest of Peru* (1847), works that are still in print
-and read today. This project uses his life, letters, and historical
-writings to provide a new narrative of the rise of historiography in the
-United States, the importance of the history of Spanish American empire
-to that literature, and the centrality of a transatlantic network of
-consular service to its emergence. The project uses group biography and
-thick descriptions of the locations of this transatlantic network of
-Prescott’s interlocutors to argue that his historical methods and his
-dealings with publishers place him, and the history of Spanish American
-imperialism, at the inception of a new historical consciousness in the
-United States. Prescott’s work established many of the defining
-assumptions of Latin American historiography and the region’s place in
-the American hemisphere that still hang low as a shadow over the
-discipline. His appeal in the 1840s signified that the establishment of
-modern historical practice in the United States was tied not only to the
-ideological needs of nationalist self-definition, but also to an
-expansionist colonialism aimed at Latin America, on the eve of the
-Mexican-American War.
+*The Bicycle in Latin America, 1870-1920*, book project that documents the enthusiastic adoption of the bicycle in cities of Latin America during the period 1870-1920. 
 
 # University Service  
+
+2016-2019 Member, Graduate Council.
+
+2017 Member, Select Committee to Revise Graduate School Policy on Credentialing and Dissertation Committees.
+
+2016-2017 Member, Credentials Committee, Graduate Council, Graduate School.
 
 2015-2017 Humanities Representative, College of Arts and Sciences Budget and Finance Committee.
 
@@ -187,14 +138,30 @@ Development position.
 
 # Departmental Service   
 
-2014-2015 Associate Head of Department, Department of History,
-University of Tennessee.
+2017-2018 Member, Undergraduate Committee.
+
+2017 Member, Committee for Future Faculty Recruitment and Visit.
+
+2017 Member, Fourth Year Review Committee for Alison Vacca.
+
+2016-2017 World Caucus Facilitator.
+
+2016 Chair, Search Committee for position on African History.
+
+2016 Chair, Fourth Year Review Committee for Tore Olsson.
+
+2015-2016 Department Website Editor.
+
+2014-2015 Associate Head of Department, Department of History, University of
+Tennessee.
 
 2015 Member, Ad-hoc committee on Undergraduate Curricular Reforms, Department of History, University of Tennessee.
 
-2014-Present Member, ex-officio, Undergraduate Committee, Department of History, University of Tennessee.
+2014-2015 Member, ex-officio, Undergraduate Committee, Department of History,
+University of Tennessee.
 
-2014-Present Member, ex-officio, Head’s Advisory Committee, Department of History, University of Tennessee.
+2014-2015 Member, ex-officio, Head’s Advisory Committee, Department of History,
+University of Tennessee.
 
 2013-2014 Member, Job Search Committee for position on the History of
 Slavery.
@@ -233,7 +200,20 @@ Spring 2008 Member, Ad-Hoc Committee on Mentoring and Annual Review, History Dep
 
 # Service to the Discipline  
 
+September 2017, Peer referee, *Feminist Economics Review*.
+
+2016 Chair, Dissertation Prize Committee, Latin American and Caribbean Section
+of the Southern Historical Association.
+
+August 2016, Panel reviewer, inaugural year of NEH-Mellon Fellowship for
+Digital Publication, National Endowment for the Humanities.
+
+March 2016, Peer referee, *Colonial Latin American Review*.
+
 2014 Member, McLeod Book Prize Committee, Latin American and Caribbean Section of the Southern Historical Association.
+
+August 2013, Panelist/Reviewer, NEH Fellowships Competition,  Latin American
+Studies Panel. National Endowment for the Humanties.
 
 December 2012 Panelist/Reviewer, Digital Humanities Start-Up Grants, National Endowment for the Humanities.
 
@@ -251,6 +231,12 @@ January 2011 Peer referee for the *Colonial Latin American Historical Review*.
 
 
 # Invited Talks  
+
+"Understanding the Venezuelan Situation," Knoxville Smart Club. 6 September 2017.
+
+"The Usual Suspects: Content and Form in the 18^th^ Century Visita de Cárcel",
+Faculty Research Seminar on Manuscripts, Humanities Center, University of
+Tennessee, 12 October 2016.
 
 Sypke call-in to discuss *Limits of Gender Domination* with "History of Gender in Latin America" seminar, Department of History, University of New Mexico, 22 September 2015.
 
@@ -288,6 +274,21 @@ Workshop. Department of History, Univ. of New Mexico. Albuquerque, NM,
 30 March 2009.
 
 # Conference Papers  
+
+"Negotiating Illicit Sex in Colonial Quito, 1765-1795," paper accepted for presentation at the CLAH/AHA Annual Meeting, Washington, DC. 4 January 2018.
+
+
+"Latin America Imagines the Bicycle, 1890-1910." Paper presented at the Southeastern Conference on Latin American Studies, Chapel Hill, NC. 24 March 2017.
+
+"View from a Cell: The Bourbon Century through the *Visita*." Paper presented
+on panel, "Colonial Discourses of Power and Legitimacy in the Andes." Rocky
+Mountain Conference on Latin American Studies Annual Conference, Santa Fe, NM.
+3 April 2016.
+
+"Race and Category in the Colonial and Republican *Visita de Cárcel*." Paper
+presented on panel, "Transcultural Encounters in Colonial and Early Republican
+Latin America." Southeastern Conference on Latin American Studies Annual
+Conference, Cartagena de Indias, Colombia. 11 March 2016.
 
 "Las mujeres de la cárcel: cumplimiento de la moral civil en Quito, Siglo XVIII." Paper presented on panel, "Género y historia."  III Congreso Latinoamericano y Caribeño de Ciencias Sociales, Quito, Ecuador. 26 August 2015.  
 
