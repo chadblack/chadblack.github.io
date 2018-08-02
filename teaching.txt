@@ -4,6 +4,8 @@ title: Teaching
 permalink: /teaching/
 ---
 
+*   [HILA 255: Introduction to Early Latin America](http://chadblack.net/2018ELA)
+*   [HIST 373: History of College Sport](http://chadblack.net/CollegeSport2018)
 *   [HILA 383: The Inquisition](http://chadblack.net/383S2018)
 *   [HIST 499: Social History of the Bicycle](http://chadblack.net/499F2017)
 *   [HILA 383: Colonial Latin American History through Film](http://chadblack.net/383F2017)
