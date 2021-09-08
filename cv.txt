@@ -4,6 +4,7 @@ title: c.v.
 permalink: /cv/
 ---
 
+
 # Academic Employment  
 
 2012 - Present Associate Professor, History, University of
@@ -48,7 +49,16 @@ late-colonial and early republican gender history. It is also filled
 with compelling human stories drawn from the litigation pursued in the
 barrios of Quito.  
 
-“Prosecuting Female-Female Sex in Bourbon Quito,” chapter in, Zeb Tortorici, editor, *Sexuality and the Unnatural in Colonial Latin America*, Berkley: University of California Press, 2016.
+"Negotiating Adultery in Colonial Quito." pp. 171-180 in *The Routledge Companion to Sexuality
+and Colonialism*. Editors: Schields, Chelsea, Herzog, Dagmar. New York:
+Routledge Press, 2021.
+
+"Lineages of Columbus:San Antonio, Ethnicity, and October 1892." *The Latin
+Americanist*, 64.1(March 2020), 9- 27.
+
+“Prosecuting Female-Female Sex in Bourbon Quito,” chapter in, Zeb Tortorici,
+editor, *Sexuality and the Unnatural in Colonial Latin America*, Berkley:
+University of California Press, 2016.
 
 "Clustering with Compression for the Historian," *Journal of Digital
 Humanities* 1.1 (Winter 2011), pp. 34-44. Also at:
@@ -93,32 +103,47 @@ Howard Rabinowitz Memorial Research Grant, Department of History, UNM.
 
 # Book Reviews
 
+"Review: Zeb Tortorici. *Sins against Nature: Sex and Archives in Colonial
+New Spain*. *H-Net Reviews in the Humanities and Social Sciences*
+([December 2020](https://www.h-net.org/reviews/showrev.php?id=53171).
+
 "A Review of *Into the Archive: Writing and Power in Colonial Peru*",
 *History: Review of New Books* 39 (Oct. 2011): 117-118.
 
-“Review: *Raising an Empire: Children in Early Modern Iberia and
+"Review: *Raising an Empire: Children in Early Modern Iberia and
 Colonial Latin America,* edited, Ondina E. González and Bianca Premo,”
 *The Americas*, 65.3 (January 2009): 429-431.
 
-“Review: *Blacks, Indians, and Spaniards in the Eastern Andes:
+"Review: *Blacks, Indians, and Spaniards in the Eastern Andes:
 Reclaiming the Forgotten in Colonial Mizque, 1550-1782*, by Lolita
 Gutiérrez Brockington” *Colonial Latin American Review*, 17.1 (2008).
 
 # Works in Progress and Other Research Activities
 
+*Don Ygnacio Martínez, Impostor*, book project on an impostor physician
+who was investigated in Quito in 1806. A book on Enlightenment
+epistemology, moral excess, the hermeneutics of confession, and the
+emergence of the modern individual.
+
 "The Usual Suspects: Bourbon Quito through the *Visita de cárcel*, 1732-1791."
 
-"*Hace muchos años*: Negotiating Illicit Sex in Quito, 1765-1795"
+*From the Alamo to the Zócalo: Otto Praeger, Bicycles, and the News in the
+Porfiriato*, book project on the story of a young reporter who rode a bicycle
+from San Antonio, TX to Mexico City in 1892.
 
 *The Bicycle in Latin America, 1870-1920*, book project that documents the enthusiastic adoption of the bicycle in cities of Latin America during the period 1870-1920. 
 
 # University Service  
 
+2019 Interim Director, Latin American and Caribbean Studies IDP.
+
 2016-2019 Member, Graduate Council.
+
+2018-2019 Member, Academic Policy Committee, Graduate Council.
 
 2017 Member, Select Committee to Revise Graduate School Policy on Credentialing and Dissertation Committees.
 
-2016-2017 Member, Credentials Committee, Graduate Council, Graduate School.
+2016-2018 Member, Credentials Committee, Graduate Council, Graduate School.
 
 2015-2017 Humanities Representative, College of Arts and Sciences Budget and Finance Committee.
 
@@ -138,11 +163,27 @@ Development position.
 
 # Departmental Service   
 
+2021-2022, World Caucus Chair.
+
+2021-2022, Department Newsletter and Website Coordinator.
+
+2020-2022, Producer of Department podcast, The Jangle. 
+
+2020 Member, Fourth Year Review Committee.
+
+2019-2020 Target of Opportunity Hiring Committee Chair, successful search.
+
+2019 SACS Annual Evaluation Committee
+
+2018-2021 Spanish Language Exam, Department of History, Coordinator. Selection passage and grade translation for graduate student Spanish language exam.
+
+2018-2021 Departmental Social Media and Website Coordinator.
+
 2017-2018 Member, Undergraduate Committee.
 
 2017 Member, Committee for Future Faculty Recruitment and Visit.
 
-2017 Member, Fourth Year Review Committee for Alison Vacca.
+2017 Member, Fourth Year Review Committee.
 
 2016-2017 World Caucus Facilitator.
 
@@ -200,15 +241,26 @@ Spring 2008 Member, Ad-Hoc Committee on Mentoring and Annual Review, History Dep
 
 # Service to the Discipline  
 
-September 2017, Peer referee, *Feminist Economics Review*.
+Peer referee for *Colonial Latin American Review*, *Latin American Research
+Review*, *Feminist Economics Review*, Routledge Press.
+
+2021 Member, Ethnohistory Program Committee, American Society for
+Ethnohistory for Fall 2021 Conference.
+
+2020 Kimberly Hanger Article Prize, LACS Section, Southern Historical Association, Committee Chair.
+
+2020 Ethnohistory Program Committee, American Society for Ethnohistory, Program
+Committee member.
+
+2019 Roberts Prize for Best Article in the HAHR, Council for Latin American History
+(CLAH), Member.2018, Peer referee, Social Science and Humanities Research Council of
+Canada.
 
 2016 Chair, Dissertation Prize Committee, Latin American and Caribbean Section
 of the Southern Historical Association.
 
 August 2016, Panel reviewer, inaugural year of NEH-Mellon Fellowship for
 Digital Publication, National Endowment for the Humanities.
-
-March 2016, Peer referee, *Colonial Latin American Review*.
 
 2014 Member, McLeod Book Prize Committee, Latin American and Caribbean Section of the Southern Historical Association.
 
@@ -223,14 +275,32 @@ Jan. 2012-Sept. 2014 Book Review Editor, *The Latin Americanist*
 
 2011 Secretary, Teaching and Teaching Materials Committee, Conference on Latin American History.
 
-January 2011 Peer referee for the *Colonial Latin American Historical Review*.
-
 2010-2011 Program Chair for History and Social Science tracks for the 2011 Annual meeting of SECOLAS, Wilmington, NC, 16-19 March 2011.
 
 2008-2009 Web Editor h-net Latin America website, maintaining links to blogs on Latin America. (http://www.h-net.org/\~latam/blog/)
 
 
-# Invited Talks  
+# Invited Talks and Media
+
+Guest, *Historias Podcast* [Episode
+124](https://secolas.org/media/historias-124-chad-black-on-gender-sex-and-the-law-in-colonial-quito/)
+March 2021.
+
+Editor, Department of History [Special Series on Riots, Race, and
+Unrest](https://history.utk.edu/category/riots/).
+
+Black, C. (2019). Screening of The Harder They Come. Knoxville. Event name:
+Screening and Discussion of The Harder They Come.
+
+Black, C. (2019). Orderly Families, Orderly Streets: The Politics of Sex in
+Colonial Quito. Boone. Event name: Appalachian State University Diversity Week
+Opening Lecture.
+
+Black, C. (2019). Otto Praeger's Mexican Sojourn. Boone, NC. Invited lecture
+to course,  Sports & the Making of the Americas.
+
+"Otto Praeger's Mexican Sojourn," Faculty Research Seminar on Latin America and
+the Caribbean, Humanities Center, University of Tennessee, 18 April 2018.
 
 "Understanding the Venezuelan Situation," Knoxville Smart Club. 6 September 2017.
 
@@ -275,8 +345,22 @@ Workshop. Department of History, Univ. of New Mexico. Albuquerque, NM,
 
 # Conference Papers  
 
-"Negotiating Illicit Sex in Colonial Quito, 1765-1795," paper accepted for presentation at the CLAH/AHA Annual Meeting, Washington, DC. 4 January 2018.
+"The Fabulous Career of Don Ygnacio Martínez, Impostor." Southeastern
+Conference on Latin American Studies. Virtual Conference, April 2021.
 
+"On Violence Public and Particular: The Social Vision of Joseph García de León
+y Pizarro, 1780." Southeastern Conference on Latin American Studies. Austin,
+Texas, March 2020.
+
+"In Honor of Columbus: San Antonio, Race, and the October 1892
+Quadricentenary." Southeastern Conference on Latin American Studies (SECOLAS).
+Oaxaca, Mexico, April 2019.
+
+"Otto Praeger's Mexican Sojourn," paper presented at the Southeastern
+Conference on Latin American Studies Annual Meeting, Nasheville, TN. 9 March
+2018.
+
+"Negotiating Illicit Sex in Colonial Quito, 1765-1795," paper presented at the CLAH/AHA Annual Meeting, Washington, DC. 4 January 2018.
 
 "Latin America Imagines the Bicycle, 1890-1910." Paper presented at the Southeastern Conference on Latin American Studies, Chapel Hill, NC. 24 March 2017.
 
@@ -452,9 +536,16 @@ The Historiography of the Colonial Andes
 
 The Profession of History (Professionalization course.)
 
+History of the Spanish Inquisition
+
 
 *Undergraduate Courses:*  
 
+Latin American History at the Movies
+
+History of Latin American Sport
+
+History of College Sport
 
 Social History of the Bicycle  
 
