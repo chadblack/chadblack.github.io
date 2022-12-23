@@ -1,7 +1,5 @@
 ---
-layout: page
-title: c.v.
-permalink: /cv/
+page-title: c.v.
 ---
 
 
@@ -17,6 +15,15 @@ Tennessee.
 
 2002 Adjunct Instructor, History, University of New Mexico.
 
+# Previous Professional Development Leave
+
+* Spring 2009: Zero-Teaching Pre-Tenure Leave
+
+* Fall 2015: Faculty Development Leave
+
+* Spring 2016: Zero-Teaching on Banked Classes, Regular Service Load
+
+
 # Education  
 
 2006 Ph.D., History, University of New Mexico  
@@ -31,29 +38,21 @@ Materiality in Ecuador.”
 
 # Publications    
 
+## Books
+
 *Limits of Gender Domination: Women, Law, and Political Crisis in Quito, 1765-1830*. Albuquerque: University of New Mexico Press, 2010.  
 
 
-Through analysis of extensive civil and criminal litigation, this book
-documents impressive economic, legal, and social rights customarily
-exercised by women of the *corregimiento* of Quito during the closing
-decades of Bourbon rule. Following the cultural logic of decentralism
-and negotiated consent, women were able to mitigate attempts by the
-centralizing Bourbon state to control their bodies and discourage access
-to legal resources. The narrative then analyzes the subsequent
-dismantling of customary legal rights with the emergence of a stricter,
-more hierarchical gender regime with the shift to a contract society
-through Ecuador's experience of the Atlantic liberal revolution. On a
-scholarly level, the book represents a significant revision of
-late-colonial and early republican gender history. It is also filled
-with compelling human stories drawn from the litigation pursued in the
-barrios of Quito.  
+## Articles and Book Chapters
+
+"The Usual Suspects: Bourbon Quito through the *Visita de Cárcel*, 1732-1791,"
+*Hispanic American Historical Review*.  Vol. 102, No. 2 (May 2022): 223-250.
 
 "Negotiating Adultery in Colonial Quito." pp. 171-180 in *The Routledge Companion to Sexuality
 and Colonialism*. Editors: Schields, Chelsea, Herzog, Dagmar. New York:
 Routledge Press, 2021.
 
-"Lineages of Columbus:San Antonio, Ethnicity, and October 1892." *The Latin
+"Lineages of Columbus: San Antonio, Ethnicity, and October 1892." *The Latin
 Americanist*, 64.1(March 2020), 9- 27.
 
 “Prosecuting Female-Female Sex in Bourbon Quito,” chapter in, Zeb Tortorici,
@@ -105,7 +104,7 @@ Howard Rabinowitz Memorial Research Grant, Department of History, UNM.
 
 "Review: Zeb Tortorici. *Sins against Nature: Sex and Archives in Colonial
 New Spain*. *H-Net Reviews in the Humanities and Social Sciences*
-([December 2020](https://www.h-net.org/reviews/showrev.php?id=53171).
+([December 2020](https://www.h-net.org/reviews/showrev.php?id=53171)). 
 
 "A Review of *Into the Archive: Writing and Power in Colonial Peru*",
 *History: Review of New Books* 39 (Oct. 2011): 117-118.
@@ -125,7 +124,7 @@ who was investigated in Quito in 1806. A book on Enlightenment
 epistemology, moral excess, the hermeneutics of confession, and the
 emergence of the modern individual.
 
-"The Usual Suspects: Bourbon Quito through the *Visita de cárcel*, 1732-1791."
+"Violence Public and Private: The Ruling Ideology of Joseph García de León y Pizarro (1780)."
 
 *From the Alamo to the Zócalo: Otto Praeger, Bicycles, and the News in the
 Porfiriato*, book project on the story of a young reporter who rode a bicycle
@@ -163,11 +162,11 @@ Development position.
 
 # Departmental Service   
 
-2021-2022, World Caucus Chair.
+2021-2023, World Caucus Chair.
 
-2021-2022, Department Newsletter and Website Coordinator.
+2021-2023, Department Newsletter and Website Coordinator.
 
-2020-2022, Producer of Department podcast, The Jangle. 
+2020-2023, Producer of Department podcast, The Jangle. 
 
 2020 Member, Fourth Year Review Committee.
 
@@ -241,11 +240,13 @@ Spring 2008 Member, Ad-Hoc Committee on Mentoring and Annual Review, History Dep
 
 # Service to the Discipline  
 
-Peer referee for *Colonial Latin American Review*, *Latin American Research
-Review*, *Feminist Economics Review*, Routledge Press.
+2022-2023 Southeastern Conference on Latin American Studies Local Arrangements committee, for the annual SECOLAS conference that will meet in Antigua, Guatemala in March 2023.
 
-2021 Member, Ethnohistory Program Committee, American Society for
-Ethnohistory for Fall 2021 Conference.
+Peer referee for *Colonial Latin American Review*, *Latin American Research
+Review*, *Feminist Economics Review*, Routledge Press, *International Journal of Middle East Studies*, *The Historical Journal*.
+
+2020-2021 Member, Ethnohistory Program Committee, American Society for
+Ethnohistory for Fall 2020 and Fall 2021 Conferences.
 
 2020 Kimberly Hanger Article Prize, LACS Section, Southern Historical Association, Committee Chair.
 
@@ -344,6 +345,13 @@ Workshop. Department of History, Univ. of New Mexico. Albuquerque, NM,
 30 March 2009.
 
 # Conference Papers  
+
+"Riding to the Future: Bicycles and Modernity in Fin de Siécle Latin America,"
+Southeastern Conference on Latin American Studies. Charlotte, NC, March 2022.
+
+"Riding to the Future: Bicycles and Modernity in Fin de Siécle Latin America,"
+LACS Section of the Southern Historical Association, Virtual Conference,
+November 2021.
 
 "The Fabulous Career of Don Ygnacio Martínez, Impostor." Southeastern
 Conference on Latin American Studies. Virtual Conference, April 2021.
