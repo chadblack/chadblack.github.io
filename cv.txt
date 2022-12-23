@@ -1,5 +1,6 @@
 ---
-page-title: c.v.
+title: c.v.
+layout: page
 ---
 
 
