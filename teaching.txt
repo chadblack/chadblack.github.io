@@ -4,6 +4,10 @@ title: Teaching
 permalink: /teaching/
 ---
 
+* [HIST 299: The Spanish Conquest of Mexico -- Spring 2025](https://chadblack.net/299S2025/)
+* [HIST 585: Graduate Seminar on Global 1968 -- Spring 2025](https://chadblack.net/585Global68/)
+* [HILA 370: Latin American History at the Horror Movies -- Fall 2024](https://chadblack.net/2024Film)
+* [HILA 255: Introduction to Early Latin America-- Fall 2024](https://chadblack.net/2024ELA/)
 * [HILA 484: The History of Sport in Latin America -- Spring
   2023](https://chadblack.net/2023SPORT)
 * [HILA 256: Introduction to Modern Latin America -- Spring
@@ -42,7 +46,7 @@ America](https://chadblack.net/2019MLA)
 *   [HILA 383: Colonial Latin American History through Film](https://chadblack.net/383F2017)
 *   [HILA 465: Gender and Sexuality in Colonial Latin
     America](https://chadblack.net/465S2017)
-*   [HIST 561: The Spanish Conquest](https://chadblack.net/561@2017) (grad
+*   [HIST 561: The Spanish Conquest](https://chadblack.net/561S2017) (grad
     seminar)
 *   [HIST 499: The US and Latin America](../media/pdf/syllabus2016.pdf)
 *   [HILA 360: The Early Andes](../media/pdf/360Syllabus2016.pdf)
@@ -51,10 +55,10 @@ America](https://chadblack.net/2019MLA)
     Action](../media/pdf/499F2014.pdf)
 -   [Readings in Colonial Andean
     History](http://chadblack.net/colonialandes)
--   [Digital History in Theory and Practice](http://chadblack.net/history580)
+-   [Digital History in Theory and Practice](https://chadblack.net/history580/)
 -   [The History of Indigenous Peoples in Spanish
     America](../2013HIST475/)
--   [The Life and Afterlife of Ernesto Guevara](../475F2012)\
+-   [The Life and Afterlife of Ernesto Guevara](https://chadblack.net/475F2012/)\
 -   [Survey of Modern Latin America](../256S2012)
 -   [Honors Research Methods in History](../307S2012)
 -   [Teaching World History](../511S2012) (Grad Seminar)
