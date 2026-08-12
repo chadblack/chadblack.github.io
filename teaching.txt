@@ -4,8 +4,10 @@ title: Teaching
 permalink: /teaching/
 ---
 
-* [HILA 361: Modern Latin America: The Nation and its Discontents](https://chadblack.net/361S2026/)
-* [HILA 464: The Spanish Conquest](https://chadblack.net/Conquest2026/)
+* [HILA 361: Modern Latin America: The Nation and its Discontents](https://chadblack.net/361S2026/) -- Spring 2026
+* [HILA 464: The Spanish Conquest](https://chadblack.net/Conquest2026/) -- Spring 2026
+* [HILA 255: Introduction to Early Latin America](https://chadblack.net/2025ELA)
+* [HILA 463: The Spanish Inquisition](https://chadblack.net/Inquisition2025/)
 * [HIST 299: The Spanish Conquest of Mexico -- Spring 2025](https://chadblack.net/299S2025/)
 * [HIST 585: Graduate Seminar on Global 1968 -- Spring 2025](https://chadblack.net/585Global68/)
 * [HILA 370: Latin American History at the Horror Movies -- Fall 2024](https://chadblack.net/2024Film/)
